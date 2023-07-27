@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000088.jpg</filename>
+  <path>K:\newmodel\SARShip\dataset\Annotations</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>303</width>
+    <height>190</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>72</xmin>
+      <ymin>62</ymin>
+      <xmax>136</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>
